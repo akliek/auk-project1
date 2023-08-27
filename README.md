@@ -29,7 +29,6 @@
   3. src - directory with all src files
   4. out - directory created after building/runing the programm and deleted after cleaning the programm. Contains class files
   5. README.md - this file
-  6. .idea - directory that contains configuration and project-specific settings for IntelliJ IDEA
 
 # REQUIREMENTS
 
