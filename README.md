@@ -27,7 +27,7 @@
   1. .gitignore - file with files and directories ignored by git (e.g. won't be commited to git)
   2. Makefile - file that contains main operations of the program (Makefile documentation https://www.gnu.org/software/make/manual/make.html)
   3. src - directory with all src files
-  4. out - directory created after building/runing the programm and deleted after cleaning the programm. Cotains class files
+  4. out - directory created after building/runing the programm and deleted after cleaning the programm. Contains class files
   5. README.md - this file
   6. .idea - directory that contains configuration and project-specific settings for IntelliJ IDEA
 
