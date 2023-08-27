@@ -1,3 +1,6 @@
+# Intelej Idea configuration directory
+.idea
+
 # Compiled class file
 *.class
 
